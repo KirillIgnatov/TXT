@@ -1,0 +1,6 @@
+First Name: Kirill
+Last Name: Ignatov
+Patronymic: Denisovich
+Age: 26
+Pets' quantity: -
+Desired salary: 60000
